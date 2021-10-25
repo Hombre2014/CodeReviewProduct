@@ -2,9 +2,9 @@
 
 # Yuriy Chamkoriyski Microverse Code Review Product
 
-> Portfolio web site, showcasing my projects while studying at Microverse.
+> The first own code review for a trial project - Product page.
 
-![screenshot](./img/app-screenshot.JPG)
+![screenshot](img/app-screenshot.JPG)
 
 Here are the main requirements for the project.
 
