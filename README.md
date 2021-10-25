@@ -4,7 +4,7 @@
 
 > The first own code review for a trial project - Product page.
 
-![screenshot](img/app-screenshot.JPG)
+![screenshot](./img/app-screeshot.JPG)
 
 Here are the main requirements for the project.
 
